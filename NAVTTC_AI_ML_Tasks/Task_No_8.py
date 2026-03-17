@@ -1,4 +1,4 @@
-#Finding area of the triangle
+#Finding area of the triangle by user input
 
 a = float(input("Enter the first side: "))
 b = float(input("Enter the second side: "))
