@@ -1,4 +1,4 @@
-#Square Root of a nummber with and without user input
+#Square Root of a number with and without user input
 
 import math
 
