@@ -1,4 +1,4 @@
-#Celsius to Fahrenheit Temperature Converter
+#Celsius to Fahrenheit Temperature Converter by user input
 
 celsius = float(input("Enter the celsius temperature: "))
 
